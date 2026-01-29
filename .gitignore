@@ -29,6 +29,7 @@ help.md
 mvnw
 mvnw.cmd
 .mvn/
+.gradle/
 
 # Editor
 .idea
